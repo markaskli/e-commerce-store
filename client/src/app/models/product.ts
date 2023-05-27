@@ -9,4 +9,4 @@ export interface Product {
     quantityInStock?: number
   }
 
-//export type {Product}
+
