@@ -29,7 +29,7 @@ export default function AboutPage() {
                             <ListItem key={error}>
                                 <ListItemText>{error}</ListItemText>
                             </ListItem>
-                        ))};
+                        ))}
                     </List>
                 </Alert>
             }
