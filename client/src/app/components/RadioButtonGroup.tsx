@@ -1,4 +1,4 @@
-import { FormControl, FormLabel, RadioGroup, FormControlLabel, Radio } from "@mui/material";
+import { FormControl, RadioGroup, FormControlLabel, Radio } from "@mui/material";
 
 interface Props {
     options: any[];

@@ -22,7 +22,7 @@ export default function OrderDetails() {
             .then(order => setOrder(order))
             .catch(error => console.log(error))
             .finally(() => setLoading(false));
-    }, [])
+    }, [id])
 
     if (loading) return <LoadingComponent message="Order is being loaded.." />
 
