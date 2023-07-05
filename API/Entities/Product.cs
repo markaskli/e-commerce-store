@@ -15,6 +15,7 @@ namespace API.Entities
         public string Type { get; set; }
         public string Brand { get; set; }
         public int QuantityInStock { get; set; }
+        public string PublicId { get; set; }
 
     }
 }
