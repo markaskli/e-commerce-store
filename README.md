@@ -7,5 +7,6 @@ ASP.NET,
 React (React Redux),
 Material UI ,
 Stripe API
+and others
 
 Available on: https://marstore.fly.dev/ 
